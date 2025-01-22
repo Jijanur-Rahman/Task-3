@@ -25,11 +25,7 @@ A command-line implementation of a fair dice game with cryptographic guarantees 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fair-dice-game.git
-
-# Navigate to project directory
-cd fair-dice-game
-
+git clone https://github.com/Jijanur-Rahman/Task-3.git
 # Run the game
 python game.py 1,2,3,4,5,6 1,1,1,6,6,6 2,2,2,5,5,5
 ```
@@ -97,7 +93,7 @@ GameController       # Game flow and UI control
 
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/fair-dice-game.git
+git clone https://github.com/Jijanur-Rahman/Task-3.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -129,13 +125,5 @@ of this software...
 - Implements HMAC verification
 - All random selections are verifiable
 - Designed for educational purposes
-```
 
-## 🔗 Quick Links
-
-* [Report Bug](https://github.com/yourusername/fair-dice-game/issues)
-* [Request Feature](https://github.com/yourusername/fair-dice-game/issues)
-* [Python Documentation](https://docs.python.org/3/)
-
----
 ⭐ Star this repository if you find it helpful!
